@@ -1,0 +1,26 @@
+#menu{
+    background-image: url("./materials/sp.jpg") ;
+    justify-self: center;
+    text-align: center;
+    height: 70px;
+    margin:auto;
+    
+    
+}
+#mg{
+    color: #8B4513 ;
+    font-weight:bold;
+   align-self: center;
+
+}
+@media only screen and (max-width: 640px){
+    body{
+        background-color: rgb(228, 228, 202);
+       
+    }
+    img{
+        width: 200px;
+        height: min-content;
+        
+    }
+}
